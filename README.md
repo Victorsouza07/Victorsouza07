@@ -1,5 +1,5 @@
-👋 Olá! Me chamo Victor Manoel
-Atualmente, estou no último semestre de Análise e Desenvolvimento de Sistemas na faculdade Uniasselvi. Com 21 anos, moro em Joinville, SC, e sou apaixonado por tecnologia, desenvolvimento de software e inovação.
+👋 Olá! Me chamo Victor Manoel,
+Atualmente estou no último semestre de Análise e Desenvolvimento de Sistemas na faculdade Uniasselvi. Com 21 anos, moro em Joinville, SC, e sou apaixonado por tecnologia, desenvolvimento de software e inovação.
 Tenho experiência com JavaScript, Kotlin, TypeScript, HTML, CSS, Java e MySQL, e estou sempre buscando novos desafios para aprimorar minhas habilidades. Meu objetivo é criar soluções eficientes e impactantes, explorando ao máximo o potencial da tecnologia.
 
 <div>
