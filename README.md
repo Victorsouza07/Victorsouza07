@@ -15,9 +15,13 @@ Tenho experiência com JavaScript, Kotlin, TypeScript, HTML, CSS, Java e MySQL, 
 </a>
 </div>
 - 👀 I’m interested in trabalhar com Full Stack
+
 - 🌱 I’m currently learning TypeScript e java  
+
 - 📫 How to reach me: E-mail = victormanoel.joaquim@gmail.com
+
 - 😄 Pronouns: ele/dele 
+
 - ⚡ Fun fact: Uma frase inspiradora que gosto muito é
 "A tecnologia move o mundo." - Steve Jobs
 
