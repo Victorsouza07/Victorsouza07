@@ -5,7 +5,7 @@ Tenho experiência com JavaScript, Kotlin, TypeScript, HTML, CSS, Java e MySQL, 
 <div>
 <a href="https://instagram.com/victorr__ssouza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:victormanoel.joaquim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https:(http://www.linkedin.com/in/victor-manoel-7b5058167)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<a href="https:(http:www.linkedin.com/in/victor-manoel-7b5058167)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 <a href="https://wa.me/47991478348" target="_blank">
     <img 
         alt="WhatsApp" 
