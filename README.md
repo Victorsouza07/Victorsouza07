@@ -7,7 +7,7 @@ Tenho experiência com JavaScript, Kotlin, TypeScript, HTML, CSS, Java e MySQL, 
 <a href = "mailto:victormanoel.joaquim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <p align="left">
 <a href="(https://www.linkedin.com/in/victor-manoel-7b5058167/)" target="_blank">
-    <img 
+      <img 
         alt="LinkedIn Profile" 
         title="Acesse meu perfil no LinkedIn" 
         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
